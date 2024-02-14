@@ -23,13 +23,11 @@ Um dieses URL-Verkürzer-Projekt zu verwenden, befolgen Sie diese Schritte:
 
 1. Klonen Sie das Repository auf Ihren lokalen Computer:
 
-```
 
 2. Navigieren Sie in das Projektverzeichnis:
 
-```
 cd url-shortener
-```
+
 
 3. Öffnen Sie die Datei `index.html` in Ihrem Webbrowser.
 
