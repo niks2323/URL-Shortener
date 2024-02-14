@@ -8,7 +8,6 @@ Dies ist ein einfaches URL-Verkürzer-Projekt, das in JavaScript implementiert i
 - [Installation](#installation)
 - [Verwendung](#verwendung)
 - [Beitragen](#beitragen)
-- [Lizenz](#lizenz)
 
 ## Funktionen
 
@@ -22,13 +21,9 @@ Dies ist ein einfaches URL-Verkürzer-Projekt, das in JavaScript implementiert i
 Um dieses URL-Verkürzer-Projekt zu verwenden, befolgen Sie diese Schritte:
 
 1. Klonen Sie das Repository auf Ihren lokalen Computer:
-
-
+   
 2. Navigieren Sie in das Projektverzeichnis:
-
-cd url-shortener
-
-
+   
 3. Öffnen Sie die Datei `index.html` in Ihrem Webbrowser.
 
 ## Verwendung
